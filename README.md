@@ -1,6 +1,6 @@
 ### Hi, I'm Seungcheol Shin. <br>
-I have been interested in **backend engineering** and **software architecture**. My goal is to **complete tasks in time with smooth and efficient teamwork**.
-I love to learn technologies related to **web development** and **data science**.
+I have been interested in **Backend Engineering** and **Software Architecture**. My goal is to **Complete tasks in time with smooth and efficient teamwork**.
+I love to learn technologies related to **Web Development** and **Data Science**.
  
 |         | Mainly I have used | Intermediate | 
 | ------------- |:-------------:| :-----:|
