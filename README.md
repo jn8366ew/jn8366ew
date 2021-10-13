@@ -2,7 +2,7 @@
 I have been interested in **Backend Engineering** and **Software Architecture**. My goal is to **Complete tasks in time with smooth and efficient teamwork**.
 I love to learn technologies related to **Web Development** and **Data Science**.
  
-|         | Mainly I have used | Intermediate/Experienced | 
+|         | Mainly I have used in 2021 | Intermediate/Experienced in 2021 | 
 | ------------- |:-------------:| :-----:|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  |
 | **Frameworks**    | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)      | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
