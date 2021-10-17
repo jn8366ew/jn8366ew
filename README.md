@@ -15,7 +15,7 @@ I love to learn technologies related to **Web Development** and **Data Science**
 | **Experienced in 2020** | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) <br> ![ArcGIS](https://user-images.githubusercontent.com/80245390/137078763-65dc3c82-9dfe-4038-a5d4-03bd0c8b3b99.png)ArcGIS 
 <br>
 
-🔭 I’m currently working on setting up [Test Driven Development environment](https://github.com/jn8366ew/tdd-project). <br>
+🔭 I’m currently working on [Test Driven Development environment](https://github.com/jn8366ew/tdd-project). <br>
 💬 You can see my further info at [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://adaptive-tail-271.notion.site/135fd97c99684840ae5037d7689dd83e) (**한국어**) or [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://adaptive-tail-271.notion.site/Hello-my-name-is-Seungcheol-Shin-c1f220cdd6104304ac4d22ec1a2e3ee5) (**ENG**)
 
 <!--
